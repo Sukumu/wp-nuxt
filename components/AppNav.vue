@@ -3,11 +3,11 @@
     <ul>
       <li>
         <nuxt-link exact to="/">
-          <app-icon></app-icon>BlogName
+          <app-icon></app-icon>Crypto Family
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/about">About</nuxt-link>
+        <nuxt-link to="/about">About Gentry Media Productions</nuxt-link>
       </li>
     </ul>
   </div>
